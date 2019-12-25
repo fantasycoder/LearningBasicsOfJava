@@ -38,7 +38,7 @@ public class TripPlanner {
         System.out.println("*******************");
         System.out.println("What is the sqaure area of your destination country in km^2 ?");
         double area=input.nextDouble();
-        System.out.println("In miles^2 that is"+ area*2.59);
+        System.out.println("In miles2 that is"+ area*2.59);
 
 
 
